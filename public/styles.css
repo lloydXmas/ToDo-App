@@ -1,0 +1,10 @@
+.nav-text {
+    vertical-align: middle;
+    font-size: 1.3rem;
+}
+.nav-link i {
+    vertical-align:middle;
+}
+.navbar-collapse {
+    padding-top: .5rem;
+}
